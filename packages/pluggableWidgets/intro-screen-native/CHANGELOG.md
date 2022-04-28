@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+-   Fixed a bug where the `On slide change` event did not always fire when swiping slides.
+
 ## [3.2.0] - 2022-4-7
 
 ### Added
